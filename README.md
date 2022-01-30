@@ -17,3 +17,4 @@ Primary Azure Technology*: [Azure Health bot](https://azure.microsoft.com/en-us/
  -Upload manifest.json file in Visualstudio & Run Visualstudio. will be redirected to Teams app .
  
  
+m
