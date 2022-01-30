@@ -1,7 +1,8 @@
 # Virtual-assistant
-Virtual assistant using Azure[^1]
+Virtual assistant using Azure
 
-Project Title*: Virtual Healthcare Assistant with [Azure Health Bot](https://docs.microsoft.com/en-us/azure/health-bot/overview)[^note]
+Project Title*: Virtual Healthcare Assistant with [Azure Health Bot](https://docs.microsoft.com/en-us/azure/health-bot/overview)
+
 Problem Statement/Opportunity*: This project gives a brief description on patients problem on user input.
 
 Project Description*: The aim of project is to help with patient problems without the help of a doctor.
