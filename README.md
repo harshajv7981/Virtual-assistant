@@ -8,4 +8,7 @@ Problem Statement/Opportunity*: This project gives a brief description on patien
 Project Description*: The aim of project is to help with patient problems without the help of a doctor.
 The projects purpose and basic functionality mapped to Health care domain
 Due to pandemic, many patients are suffering due to lack of doctors. With the help of my project, a patient can get doctor's perspective.
-g
+
+Primary Azure Technology*: [Azure Health bot](https://azure.microsoft.com/en-us/services/bot-services/health-bot/#overview),[Azure Health Service](https://azure.microsoft.com/en-in/features/service-health/)
+
+# Requirements
