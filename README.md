@@ -19,9 +19,10 @@ Primary Azure Technology*: [Azure Health bot](https://azure.microsoft.com/en-us/
 
 ### Microsoft Teams:
 
- - [Installation of teams tool kit in Visualstudio](https://docs.microsoft.com/en-us/microsoftteams/platform/toolkit/visual-studio-code-overview#:~:text=Open%20Visual%20Studio%20Code.,next%20to%20the%20Teams%20Toolkit.)
- 
- - Upload manifest.json file in Code editor and it will be redirect to Microsoft Teams app .
+ - "https://rb.gy/pylmvu" click on the link provided will be redirected to bot in Teams chat
+ - <img width="948" alt="image" src="https://user-images.githubusercontent.com/87539405/151712513-f8d83786-2b0a-4751-8fcc-e7e9339231bc.png">
+ - I developed an app regarding my chat bot and I cannot publish the app as I dont have permission's from my organization 
+ - but i have uploaded the app package in my git
  
  ### Telegram:
  
