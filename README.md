@@ -21,4 +21,4 @@ Primary Azure Technology*: [Azure Health bot](https://azure.microsoft.com/en-us/
  
  ### Telegram:
  
- - In Telegram search **virtual_assistbot**
+ - In Telegram search ||virtual_assistbot||
