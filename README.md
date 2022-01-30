@@ -11,6 +11,10 @@ Due to pandemic, many patients are suffering due to lack of doctors. With the he
 
 Primary Azure Technology*: [Azure Health bot](https://azure.microsoft.com/en-us/services/bot-services/health-bot/#overview),[Azure Health Service](https://azure.microsoft.com/en-in/features/service-health/)
 
+## Requirements:
+- [Microsoft teams](https://www.microsoft.com/en-in/microsoft-teams/download-app)
+- [Telegram](https://web.telegram.org/k/)
+
 ## Installation:
 
 ### Microsoft Teams:
