@@ -1,0 +1,58 @@
+{
+    "$schema": "https://developer.microsoft.com/en-us/json-schemas/teams/v1.11/MicrosoftTeams.schema.json",
+    "manifestVersion": "1.11",
+    "version": "1.0.0",
+    "showLoadingIndicator": true,
+    "isFullScreen": true,
+    "id": "999f3613-c913-4870-818a-5749c5411f97",
+    "packageName": "bot.app",
+    "developer": {
+        "name": "Alliance University",
+        "websiteUrl": "https://healthcare-bot-5u4gjsfi75okq.azurewebsites.net/",
+        "privacyUrl": "https://healthcare-bot-5u4gjsfi75okq.azurewebsites.net/",
+        "termsOfUseUrl": "https://healthcare-bot-5u4gjsfi75okq.azurewebsites.net/"
+    },
+    "icons": {
+        "color": "color.png",
+        "outline": "outline.png"
+    },
+    "name": {
+        "short": "Virtual Assistant",
+        "full": "Virtual Assistant for health care "
+    },
+    "description": {
+        "short": "Simple Bot for Self Assessment",
+        "full": "This Bot takes the input from the patient and provide the disease name and help patient to cure from it."
+    },
+    "accentColor": "#F9F9FA",
+    "staticTabs": [
+        {
+            "entityId": "conversations",
+            "scopes": [
+                "personal"
+            ]
+        },
+        {
+            "entityId": "about",
+            "scopes": [
+                "personal"
+            ]
+        }
+    ],
+    "bots": [
+        {
+            "botId": "328e6d24-65a9-4d6a-8557-8ce0d5e104ee",
+            "scopes": [
+                "personal",
+                "team"
+            ],
+            "supportsFiles": false,
+            "isNotificationOnly": false
+        }
+    ],
+    "permissions": [
+        "identity",
+        "messageTeamMembers"
+    ],
+    "validDomains": []
+}
