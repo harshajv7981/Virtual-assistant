@@ -21,4 +21,5 @@ Primary Azure Technology*: [Azure Health bot](https://azure.microsoft.com/en-us/
  
  ### Telegram:
  
- - In Telegram search `virtual_assistbot`
+ - In Telegram search, type `virtual_assistbot`
+ - To Activate Bot click start and then `hi`
