@@ -15,10 +15,10 @@ Primary Azure Technology*: [Azure Health bot](https://azure.microsoft.com/en-us/
 
 ### Microsoft Teams:
 
- -[Installation of teams tool kit in Visualstudio](https://docs.microsoft.com/en-us/microsoftteams/platform/toolkit/visual-studio-code-overview#:~:text=Open%20Visual%20Studio%20Code.,next%20to%20the%20Teams%20Toolkit.)
+ - [Installation of teams tool kit in Visualstudio](https://docs.microsoft.com/en-us/microsoftteams/platform/toolkit/visual-studio-code-overview#:~:text=Open%20Visual%20Studio%20Code.,next%20to%20the%20Teams%20Toolkit.)
  
- -Upload manifest.json file in Visualstudio & Run Visualstudio. will be redirected to Teams app .
+ - Upload manifest.json file in Visualstudio & Run Visualstudio. will be redirected to Teams app .
  
  ### Telegram:
  
- - In Telegram search |virtual_assistbot|
+ - In Telegram search `virtual_assistbot`
