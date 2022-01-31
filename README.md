@@ -35,3 +35,6 @@ Primary Azure Technology*: [Azure Health bot](https://azure.microsoft.com/en-us/
 ### WebChat:
  - To Use bot in Webchat click on the link `https://healthcare-bot-lakzbj2i2o5zi.azurewebsites.net/`
  - to start type `hi` and next `fever`
+
+## Note:
+#### Two Branches are Created in the `main` branch app modules are uploaded and in `master` branch webchat modules are uploaded
