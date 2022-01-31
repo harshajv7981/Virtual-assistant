@@ -21,7 +21,7 @@ Primary Azure Technology*: [Azure Health bot](https://azure.microsoft.com/en-us/
 ### Microsoft Teams:
 
  - "https://rb.gy/pylmvu" click on the link provided will be redirected to bot in Teams chat
- - To start the bot type `hi` and then `fever` 
+ - To start the bot type `hi`
 
  - <img width="948" alt="image" src="https://user-images.githubusercontent.com/87539405/151712513-f8d83786-2b0a-4751-8fcc-e7e9339231bc.png">
  - I developed an app regarding my chat bot and I cannot publish the app as I dont have permission's from my organization 
@@ -34,7 +34,6 @@ Primary Azure Technology*: [Azure Health bot](https://azure.microsoft.com/en-us/
  
 ### WebChat:
  - To Use bot in Webchat click on the link `https://healthcare-bot-lakzbj2i2o5zi.azurewebsites.net/`
- - to start type `hi` and next `fever`
 
 ## Note:
 #### Two Branches are Created in the `main` branch app modules are uploaded and in `master` branch webchat modules are uploaded
