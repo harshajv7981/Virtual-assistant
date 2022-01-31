@@ -9,7 +9,7 @@ Project Description*: The aim of project is to help with patient problems withou
 The projects purpose and basic functionality mapped to Health care domain
 Due to pandemic, many patients are suffering due to lack of doctors. With the help of my project, a patient can get doctor's perspective.
 
-Primary Azure Technology*: [Azure Health bot](https://azure.microsoft.com/en-us/services/bot-services/health-bot/#overview),[Azure Health Service](https://azure.microsoft.com/en-in/features/service-health/)
+Primary Azure Technology*: [Azure Health bot](https://azure.microsoft.com/en-us/services/bot-services/health-bot/#overview),[Azure Health Service](https://azure.microsoft.com/en-in/features/service-health/),[Azure Deployment Center](https://docs.microsoft.com/en-us/azure/app-service/deploy-continuous-deployment?tabs=github), [Azure App Service](https://azure.microsoft.com/en-in/services/app-service/)
 
 ## Requirements:
 - [Microsoft teams](https://www.microsoft.com/en-in/microsoft-teams/download-app)
