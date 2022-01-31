@@ -30,3 +30,7 @@ Primary Azure Technology*: [Azure Health bot](https://azure.microsoft.com/en-us/
  
  - In Telegram search, type `virtual_assistbot`
  - To Activate Bot click start and then `hi`
+ 
+ ### WebChat:
+ - To Use bot in Webchat click on the link `https://healthcare-bot-lakzbj2i2o5zi.azurewebsites.net/`
+ - to start type `hi` and next `fever`
